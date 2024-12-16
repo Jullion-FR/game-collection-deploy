@@ -1,5 +1,5 @@
 <?php
-
+ 
 // Load dependencies
 require 'vendor/autoload.php';
 
